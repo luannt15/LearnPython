@@ -1,0 +1,6 @@
+information = """
+	Tên: Nguyễn Trung Luân
+	Ngày/tháng/năm sinh: 15/02/1988
+	Mục đích học Python: Học để nhằm mục đích chuyển đổi nghề nghiệp
+"""
+print(information)
